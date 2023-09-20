@@ -1,3 +1,4 @@
+![MeriSKILL Dashboard 1](https://github.com/Adeyemoore/MeriSKILL_Virtual_Internship/assets/106471016/f2296157-3a34-47e2-8ce1-67ded47e42a2)
 # Project Name: MeriSKILL Virtual Internship
  
 
